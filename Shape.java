@@ -45,3 +45,18 @@ public class Shape {
         }
     }
 }
+
+
+/*
+o/p-1
+Enter length and breadth(integer value):
+4
+4
+It is a square.
+
+o/p-2
+Enter length and breadth(integer value):
+4
+6
+It is NOT a square.
+*/
