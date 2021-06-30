@@ -42,5 +42,10 @@ public class TwoMethod {
 			System.out.println("Exception caught in main");
 		}
 	}
-
 }
+
+/*
+o/p
+
+Exception caught in main
+*/
