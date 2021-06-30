@@ -30,7 +30,26 @@ public class TryCatchException {
 			System.out.println("Let's end...");
 		}
 	     
-		
-		
 	}
 }
+
+
+/*
+o/p
+
+Enter the size of array:
+5
+Enter 5 integers:
+10
+3
+2
+6
+7
+element 1 = 10
+element 2 = 3
+element 3 = 2
+element 4 = 6
+element 5 = 7
+Array is out of Bounds - java.lang.ArrayIndexOutOfBoundsException: 5
+Let's end...
+*/
